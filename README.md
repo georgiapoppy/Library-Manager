@@ -4,10 +4,10 @@ C++ program to manage books & users in a Library Manager Software, implemented u
 Download + Set up the repository and type 'g++ main.cpp' to start. 
 
 **Functions:**
-- Add User: 'U'
-- Add Book: 'B'
+- Add User: 'AU'
+- Add Book: 'AB'
 - Search for a Book: 'S'
-- Borrow Book: 'D'
+- Borrow Book: 'B'
 - Return Book: 'R'
 
 **Instructions:**
