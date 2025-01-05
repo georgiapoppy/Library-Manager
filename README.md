@@ -1,4 +1,4 @@
-# Document-Manager
+# Library-Manager
 C++ program to manage books & users in a Library Manager Software, implemented using Classes + Functions :)
 
 Download + Set up the repository and type 'g++ main.cpp' to start. 
