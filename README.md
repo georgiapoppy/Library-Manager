@@ -1,5 +1,7 @@
 # Library-Manager
-C++ program to manage books & users in a Library Manager Software, implemented using Classes + Functions :)
+C++ program to manage books & users in a Library Manager Software :) 
+
+Implemented using Classes, Functions, Unordered Maps, a Struct and an unordered Set :)
 
 Download + Set up the repository and type 'g++ main.cpp' to start. 
 
