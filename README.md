@@ -3,7 +3,7 @@ C++ program to manage books & users in a Library Manager Software :)
 
 Implemented using Classes, Functions, Unordered Maps, a Struct and an unordered Set :)
 
-Download + Set up the repository and type 'g++ LibraryManager.cpp main.cpp' to start. 
+Download + Set up the repository and type 'g++ main.cpp LibraryManager.cpp' then './a.out' to start. 
 
 **Functions:**
 - Add User: 'AU'
@@ -11,6 +11,8 @@ Download + Set up the repository and type 'g++ LibraryManager.cpp main.cpp' to s
 - Search for a Book: 'S'
 - Borrow Book: 'B'
 - Return Book: 'R'
+- Print all Users: 'PU'
+- Print all Books: 'PB'
 
 **Instructions:**
 - Type 'INSTRUCTION LETTER' then follow the prompts:
