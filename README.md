@@ -21,3 +21,4 @@ Download + Set up the repository and type 'g++ main.cpp LibraryManager.cpp' then
     - The system will also print whether the action was successful or not!
 - To stop the program type STOP (MUST BE CAPITAL LETTERS)
  
+![alt text](https://i.pinimg.com/736x/a0/d4/a1/a0d4a1bb1700a2adc6a97a882237f038.jpg)
