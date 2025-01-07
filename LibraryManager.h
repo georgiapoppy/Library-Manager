@@ -5,10 +5,8 @@
 #include <unordered_map>
 #include <unordered_set>
 
-using namespace std;
-
-struct Library {
-    string name;
+struct Book {
+    std::string name;
     int id;
     int license_limit;
     int borrow_count;
@@ -16,15 +14,17 @@ struct Library {
 
 class LibraryManager {
     private:
-        unordered_map<int, Book> books;
-        unordered_map<string, int> book_names;
-        unordered_set<int> users;
+        std::unordered_map<int, Book> books;
+        std::unordered_map<std::string, int> book_names;
+        std::unordered_set<int> users;
     public:
-        void addBook(string name, int id, int license_limit);
+        void addBook(std::string name, int id, int license_limit);
         void addUser(int userID);
-        int search(string name); 
-        bool borrowBook(int bookid, int userID); 
-        void returnBook(int bookid, int userID);
+        int search(std::string name); 
+        int borrowBook(int bookid, int userID); 
+        bool returnBook(int bookid, int userID);
+        void allBooks();
+        void allUsers();
 };
 
 #endif
