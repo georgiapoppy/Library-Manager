@@ -3,7 +3,18 @@ C++ program to manage books & users in a Library Manager Software :)
 
 Implemented using Classes, Functions, Unordered Maps, a Struct and an unordered Set :)
 
-Download + Set up the repository and type 'g++ main.cpp LibraryManager.cpp' then './a.out' to start. 
+**Set Up:**
+1. Clone GitHub Repository:
+```sh
+git clone https://github.com/georgiapoppy/Library-Manager.git
+```
+3. Type in the terminal:
+```sh
+g++ main.cpp LibraryManager.cpp
+```
+```sh
+./a.out
+```
 
 **Functions:**
 - Add User: 'AU'
